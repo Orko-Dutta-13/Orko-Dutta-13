@@ -67,13 +67,13 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Orko-Dutta-13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Orko-Dutta-13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orko-Dutta-13&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orko-Dutta-13&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Orko-Dutta-13&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Orko-Dutta-13&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
 </p>
 
 ---
@@ -83,6 +83,7 @@
 | Project | Description | Tools |
 |---|---|---|
 | [Telco Customer Churn Prediction](https://github.com/Orko-Dutta-13/Telco-customer-churn-prediction) | End-to-end churn pipeline with SHAP & LIME explainability — retention briefs for every high-risk customer | XGBoost, LightGBM, SHAP, LIME, scikit-learn |
+| [Sales Forecast Pipeline](https://github.com/Orko-Dutta-13) | End-to-end sales forecasting pipeline — time series modelling with automated reporting and trend analysis | Python, pandas, scikit-learn, matplotlib |
 
 ---
 
