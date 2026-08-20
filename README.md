@@ -70,10 +70,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Orko-Dutta-13&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Orko-Dutta-13&theme=tokyonight" width="95%"/>
-</p>
-
 ---
 
 ### Featured Projects
