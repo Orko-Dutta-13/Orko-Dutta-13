@@ -64,16 +64,14 @@
 
 ---
 
-### GitHub Stats
+### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Orko-Dutta-13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orko-Dutta-13&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Orko-Dutta-13&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Orko-Dutta-13&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Orko-Dutta-13&theme=tokyonight" width="95%"/>
 </p>
 
 ---
